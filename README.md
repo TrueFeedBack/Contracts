@@ -1,2 +1,2 @@
 # Contracts
-Truefeedback Token Contratcs
+Truefeedback Token Contratcs on Celo Blockchain Network
